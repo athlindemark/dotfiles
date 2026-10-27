@@ -1,0 +1,10 @@
+{
+  "pytest test function": {
+    "prefix": "pytest-test",
+    "body": [
+      "def test_${1:behavior}():",
+      "    ${0:assert True}"
+    ],
+    "description": "Basic pytest test function"
+  }
+}

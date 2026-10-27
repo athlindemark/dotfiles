@@ -1,0 +1,22 @@
+{
+  "Profiles": [
+    {
+      "Name": "Dotfiles - JetBrains Mono",
+      "Guid": "067C0AB5-BDDA-4E00-9C0E-3E8666C6B7F4",
+      "Dynamic Profile Parent Name": "Default",
+      "Normal Font": "JetBrainsMono Nerd Font Mono 13",
+      "Non Ascii Font": "JetBrainsMono Nerd Font Mono 13",
+      "Use Non-ASCII Font": true,
+      "Keyboard Map": {
+        "0xf702-0x280000": {
+          "Action": 10,
+          "Text": "b"
+        },
+        "0xf703-0x280000": {
+          "Action": 10,
+          "Text": "f"
+        }
+      }
+    }
+  ]
+}

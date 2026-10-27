@@ -1,0 +1,14 @@
+[
+  {
+    "key": "cmd+'",
+    "command": "editor.action.commentLine"
+  },
+  {
+    "key": "cmd+n",
+    "command": "explorer.newFile"
+  },
+  {
+    "key": "ctrl+cmd+t",
+    "command": "terminal.focus"
+  }
+]

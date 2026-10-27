@@ -1,0 +1,8 @@
+# Copy this file to .zshrc.local for settings specific to this computer.
+# This file is intentionally excluded from Git. Never put passwords or tokens here.
+
+# Example:
+# export EDITOR="code --wait"
+# export DOTNET_ROOT="$HOME/.dotnet"
+# export PATH="$HOME/bin:$PATH"
+# export DOTFILES_PROFILE=extended  # overrides the shared .dotfiles-profile
